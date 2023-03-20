@@ -8,3 +8,7 @@ In this comprehensive analysis, our primary objectives encompass a multifaceted 
 6) Calculate and present the Lyapunov spectrum graph.
 7) Compute the Kolmogorov entropy, with an optional associated graph. Furthermore, we shall convert the original timeseries from an hourly to a 4-hour sampling rate, aggregating 2190 points, and subsequently repeat the aforementioned procedure. 
 8) Provide an insightful commentary on the observed differences and similarities between the two distinct cases.
+
+## Contact Information
+
+If you require access to the code in this repository, please reach out to me at g.papageorgiou.contact@gmail.com or on [LinkedIn](https://www.linkedin.com/in/giorgos-papageorgiou-3b27a9221), and I will be happy to assist you.
